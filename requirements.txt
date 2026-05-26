@@ -1,0 +1,8 @@
+fastapi
+python-multipart
+chromadb
+numpy
+openai
+pypdf
+langsmith
+scikit-learn
